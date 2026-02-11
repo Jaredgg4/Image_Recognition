@@ -5,6 +5,7 @@ torch
 torchvision
 transformers
 streamlit
+altair<5
 gradio
 pillow
 timm

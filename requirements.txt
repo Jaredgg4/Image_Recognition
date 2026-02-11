@@ -1,0 +1,12 @@
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+torch
+torchvision
+transformers
+streamlit
+gradio
+pillow
+timm

@@ -1,6 +1,6 @@
-tensorflow
+tensorflow>=2.19,<2.20
 keras
-protobuf>=3.20,<5
+protobuf>=4.25,<5
 numpy
 pandas
 matplotlib
